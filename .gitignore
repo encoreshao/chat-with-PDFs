@@ -1,0 +1,7 @@
+.env
+
+*.swp
+*.sublime-*
+
+# Ignore IDE config
+.idea/*
