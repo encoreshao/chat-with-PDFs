@@ -20,6 +20,8 @@ how to use LangChain and LLMs to do RAG in Python and ask questions about PDF do
 
 ## How it works
 
+Please add `OPENAI_API_KEY` to `.env` first
+
 ```
 python src/main.py
 ```
