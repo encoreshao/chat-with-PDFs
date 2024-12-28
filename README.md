@@ -6,8 +6,7 @@ how to use LangChain and LLMs to do RAG in Python and ask questions about PDF do
 
 - OpenAI
 - LangChain
-- LangChain OpenAI
-- LangChain Ollama
+- LangChain Community
 - Faiss
 
 ## Environment Setup
@@ -20,8 +19,20 @@ how to use LangChain and LLMs to do RAG in Python and ask questions about PDF do
 
 ## How it works
 
-Please add `OPENAI_API_KEY` to `.env` first
+- OpenAI: please add `OPENAI_API_KEY` to `.env` first
 
 ```
-python src/main.py
+python src/openai_main.py
 ```
+
+- Ollama: pls install ollama first
+
+```
+python src/ollama_main.pry
+```
+
+## References
+
+- [Ollama Setup](https://ollama.com/)
+- [Langchain OpenAI](https://python.langchain.com/docs/integrations/providers/openai/)
+- [Langchain Ollama](https://python.langchain.com/docs/integrations/providers/ollama/)
