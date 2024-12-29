@@ -1,6 +1,6 @@
-# Chat with PDFs: RAG with LangChain, GPT & LLaMa in Python
+# Chat with PDFs: RAG with LangChain, GPT & LLama in Python
 
-how to use LangChain and LLMs to do RAG in Python and ask questions about PDF documents.
+How to use LangChain and LLMs to do RAG in Python and ask questions about PDF documents.
 
 ## Packages
 
